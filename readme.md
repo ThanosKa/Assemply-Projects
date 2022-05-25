@@ -5,6 +5,7 @@ Each of the node is consists of two words of 32 bits each  (because *RARS* simul
 The linked list two fields, the *data* and the * *nxtPtr*
 
 **How it works**
+
 Run  the programm and simply
 1)insert *positive*  **INTS** in to the list.
 2)When you finish  insert  0 or *negative* integer to exit the Insert function
